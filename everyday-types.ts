@@ -12,9 +12,9 @@ const n1: number = obj;
 
 // Function
 // 1.参数类型注解
-function greet(name: string) {
-    console.log("Hello, " + name.toUpperCase() + "!!");
-}
+// function greet(name: string) {
+//     console.log("Hello, " + name.toUpperCase() + "!!");
+// }
 // 2.返回类型注解
 function getFavoriteNumber(): number {
     return 23;
